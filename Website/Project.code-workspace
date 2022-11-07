@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sync.autoUpload": true,
+		"sync.forceUpload": true,
+		"sync.gist": "<script src=\"https://gist.github.com/ryaqui27/0e86d3ea9dfe4c3e768765462ed63377.js\"></script>"
+	}
+}
